@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 
 Check me out at LinkedIn!
-<a href="https://www.linkedin.com/in/tobias-sample-07b86746/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<br/><a href="https://www.linkedin.com/in/tobias-sample-07b86746/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
