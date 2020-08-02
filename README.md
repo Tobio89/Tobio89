@@ -16,5 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I'm currently working on my ELS Auto Worksheet app. See it in action here - https://auto-worksheet.herokuapp.com/
+- I'm currently working on my ESL Auto Worksheet app. See it in action here - https://auto-worksheet.herokuapp.com/
 - I'm currently learning JavaScript. You can see my JS skills at work in the app above.
+
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
