@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently working on my ELS Auto Worksheet app. See it in action here - https://auto-worksheet.herokuapp.com/
-I'm currently learning JavaScript. You can see my JS skills at work in the app above.
+- I'm currently working on my ELS Auto Worksheet app. See it in action here - https://auto-worksheet.herokuapp.com/
+- I'm currently learning JavaScript. You can see my JS skills at work in the app above.
