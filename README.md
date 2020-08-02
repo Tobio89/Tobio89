@@ -19,4 +19,6 @@ Here are some ideas to get you started:
 - I'm currently working on my ESL Auto Worksheet app. See it in action here - https://auto-worksheet.herokuapp.com/
 - I'm currently learning JavaScript. You can see my JS skills at work in the app above.
 
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
+
+Check me out at LinkedIn!
+<a href="https://www.linkedin.com/in/tobias-sample-07b86746/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
