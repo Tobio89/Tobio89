@@ -1,4 +1,4 @@
-## BruceJi :cactus:
+## BruceJi 🏔️
 ### Tobias Sample
 
 <!--
@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 -->
 
 - I'm currently working on my ESL Auto Worksheet app. See it in action here - https://auto-worksheet.herokuapp.com/
-- I'm currently learning JavaScript. You can see my JS skills at work in the app above.
+- I'm currently learning Vue.js You can see my JS skills at work in the app above.
+- Also check out my GitHub Portfolio site! <a href="http://bruceji7.github.io/">bruceji7.github.io/</a>
 
 
 Check me out at LinkedIn!
