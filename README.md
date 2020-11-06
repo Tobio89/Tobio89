@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 - I'm currently working on my ESL Auto Worksheet app. See it in action here - https://auto-worksheet.herokuapp.com/
-- I'm currently learning React.js! You can see my JS skills at work in the app above.
+- I'm currently learning React.js! Expect to see some cool React apps here soon. In the mean time, you can see my JS skills at work in the app above.
 - Also check out my GitHub Portfolio site! <a href="http://bruceji7.github.io/">bruceji7.github.io/</a>
 
 
