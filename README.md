@@ -1,24 +1,12 @@
-## BruceJi 🏔️
+## BruceJi 
 ### Tobias Sample
 
-<!--
-**BruceJi7/BruceJi7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Front-End Developer at CONUN
+I am a junior front-end developer. I use React.js.
+I am well versed in React hooks. I'm handy with Redux, too.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-- I'm currently working on my ESL Auto Worksheet app. See it in action here - https://auto-worksheet.herokuapp.com/
-- I'm currently learning React.js! Expect to see some cool React apps here soon. In the mean time, you can see my JS skills at work in the app above.
-- Also check out my GitHub Portfolio site! <a href="http://bruceji7.github.io/">bruceji7.github.io/</a>
+Aside from JavaScript, I'm also a capable Python developer. For backend stuff, I recently picked up FastAPI, and it's a very straightforward library!
+Check out my projects. My favourite one is Auto-Worksheet, but I'm also very fond of Flashmachine.
 
 
 Check me out at LinkedIn!
