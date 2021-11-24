@@ -8,6 +8,7 @@ I do Front End development at CONUN. I've used React and Next.js to build a bunc
 
 Probably the coolest thing I did was set up a deep linking protocol in the Electron application, that works on all three main OS systems.
 Or an editable user role and permission system I set up for an internal website.
+
 Coding for extensions is a bit of a pain, but it's satisfying seeing your login web-app signing your chrome extension in!
 
 These days I'm interested in learning a compiled programming language. I've tried C++, Java, and Go.
