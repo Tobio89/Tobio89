@@ -1,17 +1,16 @@
-## BruceJi 
+## Tobio89 
 ### Tobias Sample
 
-#### Front-End Developer at CONUN
+#### Front-End Developer at Lunit
 It's me, Toby!
 
-I do Front End development at CONUN. I've used React and Next.js to build a bunch of sites and services, and I've even had the pleasure of working on an Electron desktop application and a Google Chrome extension.
+I do Front End development at Lunit. I primarily use React to develop visualisation interfaces for AI-based cancer diagnosis software.
+I've worked on building out the team's front end component library, and added a dynamically generated menu component that can even generate its own state and controllers, plugged into Recoil.
 
-Probably the coolest thing I did was set up a deep linking protocol in the Electron application, that works on all three main OS systems.
-Or an editable user role and permission system I set up for an internal website.
+At my previous company, I built a cryptocurrency Chrome extension, and developed a way to login to the extension via an external webpage.
+I also worked on an Electron application, and set up deep linking for it.
 
-Coding for extensions is a bit of a pain, but it's satisfying seeing your login web-app signing your chrome extension in!
-
-These days I'm interested in learning a compiled programming language. I've tried C++, Java, and Go.
+These days I'm learning more about Go. Something about compiled, statically typed languages feels satisfying to program in.
 
 
 Check me out at LinkedIn!
